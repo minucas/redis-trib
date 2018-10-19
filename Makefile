@@ -1,4 +1,4 @@
-DOCKER_IMAGE=zvelo/redis-trib
+DOCKER_IMAGE=minhw/redis-trib
 
 all: image
 
